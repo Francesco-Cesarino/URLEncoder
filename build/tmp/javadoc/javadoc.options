@@ -1,0 +1,6 @@
+-classpath 'C:\\Users\\Francesco\\Desktop\\URLEncoder\\build\\classes\\java\\main;C:\\Users\\Francesco\\Desktop\\URLEncoder\\build\\resources\\main'
+-d 'C:\\Users\\Francesco\\Desktop\\URLEncoder\\build\\docs\\javadoc'
+-doctitle 'URLEncoder API'
+-quiet 
+-windowtitle 'URLEncoder API'
+'C:\\Users\\Francesco\\Desktop\\URLEncoder\\src\\main\\java\\URLEncoder.java'
